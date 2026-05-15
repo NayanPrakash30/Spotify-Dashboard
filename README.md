@@ -85,13 +85,5 @@ To build an interactive visual tool that:
 └── README.md                # Project documentation
 ```
 
----
-
-## 🚀 How to Use
-
-1. Clone or download this repository
-2. Open `Spotify_Dashboard.pbix` in **Power BI Desktop**
-3. Explore the dashboard — use slicers and filters to interact with the visuals
-4. Hover over charts for detailed tooltips and drill-through insights
 
 
