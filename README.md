@@ -84,6 +84,3 @@ To build an interactive visual tool that:
 ├── Dashboard.png            # Dashboard screenshot preview
 └── README.md                # Project documentation
 ```
-
-
-
