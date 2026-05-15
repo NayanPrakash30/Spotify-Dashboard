@@ -94,14 +94,4 @@ To build an interactive visual tool that:
 3. Explore the dashboard — use slicers and filters to interact with the visuals
 4. Hover over charts for detailed tooltips and drill-through insights
 
----
 
-## 👤 Author
-
-**Nayan**
-BCA Data Science — SRM Institute of Science and Technology
-Certified in Data Analytics & Visualization *(Accenture, Tata)*
-
----
-
-> ⭐ If you found this useful, consider giving the repo a star!
